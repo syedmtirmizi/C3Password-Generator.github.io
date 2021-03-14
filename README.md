@@ -6,4 +6,4 @@ The project is designed to create a random password generator that can be define
 
 The live application can be found here: https://syedmtirmizi.github.io/C3Password-Generator.github.io/ 
 
-A screen shoot of the aplication can be found below: (../C3Password-Generator.github.io/assets/Password-Generator-Screenshot.jpg)  
+Click [here](./assets/Password-Generator-Screenshot.jpg) to see screenshot of the aplication.  
